@@ -1,4 +1,4 @@
-# Video-Encrypted-Message - Encoder & Decoder
+😗# Video-Encrypted-Message - Encoder & Decoder
 
 This project is a secure communication server that encodes secret messages into a Matrix-style video using Reed-Solomon Error Correction Codes (ECC) and allows you to decode these messages either via file upload or live WebRTC stream.
 
